@@ -1,4 +1,4 @@
-This program was tested with GCC 7.2.0. in Godbolt.org
+This program was tested with GCC 7.2.0 in Godbolt.org.
 The program uses fold expression which is a C++17 feature, so you should use '-std=c++17'.
 
 Functions:
