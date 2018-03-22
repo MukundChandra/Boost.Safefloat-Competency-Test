@@ -7,7 +7,7 @@ Returns a tuple with the same elements as T but inside vectors,repeated X times.
 
 2. get_vector(std::tuple,type X) :
 Returns the vector that has the corresponding 'type' as X.
-Note : We throw an error if the tuple has more than 1 element of same type.
+Note : It throws an error if the tuple has more than 1 element of same type.
 
 Values:
 1. TooSmallToStore : 
